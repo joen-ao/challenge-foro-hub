@@ -84,9 +84,3 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 
 Explora los endpoints de la API y su uso en la Documentación de Swagger.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
-
-## Author ✒️
-
-* **Ricardo Zamora Picazo** - [Ricardo ZP](https://github.com/pzric)
